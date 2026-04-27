@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+
+# Build outputs
+bin/
+obj/
+
+# Logs
+*.log
+
+# EF Core migration build artifacts
+Migrations/obj/
+
+# Other temp files
+*.dbmdl
+*.jfm
